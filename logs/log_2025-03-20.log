@@ -1,0 +1,5 @@
+2025-03-20 15:18:31,921 - INFO - stsrting program
+2025-03-20 15:18:31,921 - ERROR - Error occured
+2025-03-20 15:18:31,921 - ERROR - Error in S:\MLOPS_GCP_CICD\MLOPS_PROJECT_1\test.py , line 11 : division by zero 
+2025-03-20 15:20:14,952 - INFO - stsrting program
+2025-03-20 15:20:14,952 - INFO - divide two number
