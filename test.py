@@ -22,3 +22,5 @@ if __name__ == '__main__':
         divide_numebr(10,2)
     except CustomException as ce:
         logger.error(str(ce))
+
+        
